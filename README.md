@@ -5,7 +5,9 @@
 I am a student studying in the field of software engineering with some background on game development. I enjoy creating fun projects using Python and Java to develop my own softwares, including video games and apps, all optimized using various algorithms. I aspire to learn and apply all the skillsets and algorithms I have learned over the years to further strengthen my skills as a software developer.
 
 The games I have helped make so far are placed in itch.io
+
 https://kimmarzo.itch.io/derailed
+
 https://graysire.itch.io/planetary-paw-patrol
 
 
