@@ -1,5 +1,3 @@
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQEmxwb-cV4gyg/profile-displaybackgroundimage-shrink_350_1400/0/1609374311341?e=1616630400&v=beta&t=4J9-9C9lNSKuVAwJHptDBbAMBETrEJsWI-dd5AdWt8k)
-
 # Steven Centeno
 I am a student studying in the field of software engineering with some background on game development, A.I. algorithms, app development. I enjoy creating fun projects using Python and Java to develop my own softwares, including video games and apps, all optimized using various algorithms. I aspire to learn and apply all the skillsets and algorithms I have learned over the years to further strengthen my skills as a software developer. You can contact me at my email stevencenteno13@gmail.com
 
