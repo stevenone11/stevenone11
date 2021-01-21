@@ -2,10 +2,10 @@
 I am a student studying in the field of software engineering with some background on game development, A.I. algorithms, app development. I enjoy creating fun projects using Python and Java to develop my own softwares, including video games and apps, all optimized using various algorithms. I aspire to learn and apply all the skillsets and algorithms I have learned over the years to further strengthen my skills as a software developer. You can contact me at my email stevencenteno13@gmail.com
 
 # Skills / Knowledge
-* Languages: Python / Java / C++
+* Languages: Python / Java / C++ / Javascript
 * Game Development: Unity / C#
-* Software Engineering: Scrums / Agile / etc.
 * Essential knowledge: Object Oriented Programming / Sorting and Searching Algorithms / A.I. Algorithms
+* Familiar with: Android Studio / Github / Latex
 
 # Experience and Examples
 https://kimmarzo.itch.io/derailed
