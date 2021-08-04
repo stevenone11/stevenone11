@@ -1,5 +1,5 @@
 # Steven Centeno
-I am a student studying in the field of software engineering with some background on game development, A.I. algorithms, app development. I enjoy creating fun projects using Python and Java to develop my own softwares, including video games and apps, all optimized using various algorithms. I aspire to learn and apply all the skillsets and algorithms I have learned over the years to further strengthen my skills as a software developer. You can contact me at my email stevencenteno13@gmail.com
+I am a software engineer with background in game development, A.I. algorithms, web development, database management and app development. I enjoy creating fun projects using Python and Java to develop my own softwares, including video games and apps, all optimized using various algorithms. I aspire to learn and apply all the skillsets and algorithms I have learned over the years to further strengthen my skills as a software developer. You can contact me at my email stevencenteno13@gmail.com
 
 # Skills / Knowledge
 * Languages: Python / Java / C++ / Javascript
